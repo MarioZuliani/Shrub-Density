@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20181218</CreaDate><CreaTime>18221800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractMultiValuesToPoints" Date="20181218" Time="182218">ExtractMultiValuesToPoints Site4Points "Slope_20m.tif Slope;Strm_PR_Clip_20m.tif Elev" NONE</Process></lineage></DataProperties></Esri></metadata>
